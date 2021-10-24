@@ -14,6 +14,8 @@ Al ingresar por primera vez tendrás se solicitará cambiar la contraseña y esa
 
 _Nota_: Cuando accedas al sistema tendrás que elegir el dashboard correcto llamado "Datos Financieros". Es posible que al elegirlo veas un mensaje sobre no poder conectarse, si ocurre esto por favor cambia de dashboard a "test1" o "test-1" e inmediatamente regresa a dashboard "Datos Financieros". Ya debes poder ver nuestro visualizador... disfruta!
 
+La carpeta [códigos de homologación de datos](https://github.com/JFMandujanoR/HackathonBBVA2021_LosNoSupervisados/tree/main/c%C3%B3digos%20de%20homologaci%C3%B3n%20de%20datos) contiene el código en Python usado para el procesamiento y homologación de datos. Mayor detalle dentro de la carpeta.
+
 Diagrama de solucion:
 
 ![diagrama](https://github.com/JFMandujanoR/HackathonBBVA2021_LosNoSupervisados/blob/main/Diagrama.png)
