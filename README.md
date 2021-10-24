@@ -16,7 +16,7 @@ _Nota_: Cuando accedas al sistema tendras que elegir el dashboard correcto llama
 
 Diagrama de solucion:
 
-![diagrama](http://url/to/img.png)
+![diagrama](https://github.com/JFMandujanoR/HackathonBBVA2021_LosNoSupervisados/blob/main/Diagrama.png)
 
 ________________________________________________________
 Los No Supervisados
