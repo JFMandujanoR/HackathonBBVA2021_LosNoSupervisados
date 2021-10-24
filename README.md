@@ -14,5 +14,9 @@ Al ingresar tendras que cambiar el password y esa sera tu clave de acceso a part
 
 _Nota_: Cuando accedas al sistema tendras que elegir el dashboard correcto llamado "Datos Financieros". Es posible que al elegirlo veas un mensaje sobre no poder conectarse, si ocurre esto por favor cambia de dashboard a "test1" o "test-1" e inmediatamente regresa a dashboard "Datos Financieros". Ya debes poder ver nuestro visualizador... disfruta!
 
+Diagrama de solucion:
+
+![diagrama](http://url/to/img.png)
+
 ________________________________________________________
 Los No Supervisados
