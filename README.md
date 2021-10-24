@@ -10,7 +10,7 @@ Al acceder al URL anterior se solicitará un usuario y una contraseña, para ell
 - Usuario: *HackathonUser*
 - Password: *TestPass-1*
 
-Al ingresar por primera vez tendrás se solicitará cambiar la contraseña y esa sera tu clave de acceso a partir de ahora. Esto anterior se realiza con el fin de mantener la información analítica segura.
+Al ingresar por primera vez se solicitará cambiar la contraseña y esa sera tu clave de acceso a partir de ahora. Esto anterior se realiza con el fin de mantener la información analítica segura.
 
 _Nota_: Cuando accedas al sistema tendrás que elegir el dashboard correcto llamado "Datos Financieros". Es posible que al elegirlo veas un mensaje sobre no poder conectarse, si ocurre esto por favor cambia de dashboard a "test1" o "test-1" e inmediatamente regresa a dashboard "Datos Financieros". Ya debes poder ver nuestro visualizador... disfruta!
 
